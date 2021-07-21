@@ -571,6 +571,7 @@ body {
   -webkit-justify-content: center;
           justify-content: center;
   margin-bottom: 2rem;
+  cursor: pointer;
 }
 .option-menu {
   background-color: rgb(236, 236, 236);
@@ -579,8 +580,21 @@ body {
   font-size: 0.9rem;
   border-radius: 5px;
   box-sizing: border-box;
+  cursor: pointer;
 }
-
+.dropdown-selected {
+  width: 50%;
+  height: 4rem;
+  min-width: 100px;
+  box-shadow: 0px 2px 4px rgb(150, 150, 150);
+  border-bottom: none;
+  border-radius: 5px 5px 0px 0px;
+  position: relative;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+          align-items: center;
+}
 
 
 
@@ -1146,4 +1160,4 @@ h6 {
 }
 
 
-/*# sourceMappingURL=main.8bb05a1c.chunk.css.map*/
+/*# sourceMappingURL=main.cc0bece7.chunk.css.map*/
