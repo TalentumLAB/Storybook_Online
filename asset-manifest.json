@@ -2,11 +2,11 @@
   "files": {
     "0.45290bde.iframe.bundle.js": "./0.45290bde.iframe.bundle.js",
     "main.css": "./static/css/main.73068392.chunk.css",
-    "main.js": "./main.35a15985.iframe.bundle.js",
+    "main.js": "./main.c354e940.iframe.bundle.js",
     "main.css.map": "./static/css/main.73068392.chunk.css.map",
     "runtime~main.js": "./runtime~main.64de774c.iframe.bundle.js",
-    "vendors~main.js": "./vendors~main.e21e98e9.iframe.bundle.js",
-    "vendors~main.js.map": "./vendors~main.e21e98e9.iframe.bundle.js.map",
+    "vendors~main.js": "./vendors~main.354505f8.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.354505f8.iframe.bundle.js.map",
     "4.9dd7f898.iframe.bundle.js": "./4.9dd7f898.iframe.bundle.js",
     "4.9dd7f898.iframe.bundle.js.map": "./4.9dd7f898.iframe.bundle.js.map",
     "5.7fd69fae.iframe.bundle.js": "./5.7fd69fae.iframe.bundle.js",
@@ -24,12 +24,12 @@
     "static/media/plugin.d494b228.svg": "./static/media/plugin.d494b228.svg",
     "static/media/repo.6d496322.svg": "./static/media/repo.6d496322.svg",
     "static/media/stackalt.dba9fbb3.svg": "./static/media/stackalt.dba9fbb3.svg",
-    "vendors~main.e21e98e9.iframe.bundle.js.LICENSE.txt": "./vendors~main.e21e98e9.iframe.bundle.js.LICENSE.txt"
+    "vendors~main.354505f8.iframe.bundle.js.LICENSE.txt": "./vendors~main.354505f8.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
     "runtime~main.64de774c.iframe.bundle.js",
-    "vendors~main.e21e98e9.iframe.bundle.js",
+    "vendors~main.354505f8.iframe.bundle.js",
     "static/css/main.73068392.chunk.css",
-    "main.35a15985.iframe.bundle.js"
+    "main.c354e940.iframe.bundle.js"
   ]
 }
